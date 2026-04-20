@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" alt="MC Status Bot" width="120" />
-
 # ⛏️ MC Status Bot
 
 [![Node.js](https://img.shields.io/badge/Node.js-v16%2B-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
