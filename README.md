@@ -30,7 +30,24 @@
 
 ## 📸 Preview
 
-> _(Add a screenshot of your embed here)_
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="serveronline.png" alt="Server Online" width="280" />
+      <br/>
+      <sub><b>🟢 Server Online</b></sub>
+    </td>
+    <td align="center">
+      <img src="serveroffline.png" alt="Server Offline" width="280" />
+      <br/>
+      <sub><b>🔴 Server Offline</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -39,8 +56,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/NjnYstreem/mc-server-status.git
-cd mc-server-status
+git clone https://github.com/yourusername/mc-status-bot.git
+cd mc-status-bot
 ```
 
 ### 2. Install dependencies
@@ -67,7 +84,7 @@ Edit `config.json` with your details:
     "host": "play.yourserver.com",
     "port": 25565,
     "name": "YourServer",
-    "version": "1.21.11"
+    "version": "1.21"
   }
 }
 ```
