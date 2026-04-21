@@ -8,7 +8,6 @@
 [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)]()
 
 **A lightweight Discord bot that displays your Minecraft server's live status in a clean, auto-updating embed.**
-Inspired by FiveM status panels like Zion City and CrestMC.
 
 [Features](#-features) · [Setup](#-setup) · [Configuration](#️-configuration) · [Preview](#-preview)
 
@@ -31,24 +30,7 @@ Inspired by FiveM status panels like Zion City and CrestMC.
 
 ## 📸 Preview
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="serveronline.png" alt="Server Online" width="280" />
-      <br/>
-      <sub><b>🟢 Server Online</b></sub>
-    </td>
-    <td align="center">
-      <img src="serveroffline.png" alt="Server Offline" width="280" />
-      <br/>
-      <sub><b>🔴 Server Offline</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+> _(Add a screenshot of your embed here)_
 
 ---
 
@@ -57,8 +39,8 @@ Inspired by FiveM status panels like Zion City and CrestMC.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/mc-status-bot.git
-cd mc-status-bot
+git clone https://github.com/NjnYstreem/mc-server-status.git
+cd mc-server-status
 ```
 
 ### 2. Install dependencies
@@ -85,7 +67,7 @@ Edit `config.json` with your details:
     "host": "play.yourserver.com",
     "port": 25565,
     "name": "YourServer",
-    "version": "1.21"
+    "version": "1.21.11"
   }
 }
 ```
